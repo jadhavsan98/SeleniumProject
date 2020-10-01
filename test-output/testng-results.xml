@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21686" started-at="2020-09-21T14:11:28Z" finished-at="2020-09-21T14:11:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21686" started-at="2020-09-21T14:11:28Z" finished-at="2020-09-21T14:11:50Z">
+      <class name="com.framework.selenium.scroll.ScrollByPage">
+        <test-method status="PASS" signature="scrollThePage()[pri:0, instance:com.framework.selenium.scroll.ScrollByPage@5b275dab]" name="scrollThePage" duration-ms="21665" started-at="2020-09-21T14:11:28Z" finished-at="2020-09-21T14:11:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollThePage -->
+      </class> <!-- com.framework.selenium.scroll.ScrollByPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
