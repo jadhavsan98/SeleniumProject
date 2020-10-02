@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class HandleAlertBox {
 
 	public static void main(String[] args) throws InterruptedException {
-
+//enter url
 		System.setProperty("webdriver.chrome.driver", "D:\\SeleniumDownload\\chromedriverr.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://letskodeit.teachable.com/p/practice");
